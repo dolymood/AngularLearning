@@ -17,3 +17,5 @@ AngularLearing
 <p>12、angularjs book：<a href="https://github.com/shyamseshadri/angularjs-book">https://github.com/shyamseshadri/angularjs-book</a>
 <p>13、angular和require结合方式：<a href="https://github.com/tnajdek/angular-requirejs-seed">https://github.com/tnajdek/angular-requirejs-seed</a>
 <p>14、利用angular开发下一代Web应用(angular js) 【书】
+
+<p>15、Lcllao的ag笔记：<a href="http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html">http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html</a>
