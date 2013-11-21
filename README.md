@@ -19,3 +19,4 @@ AngularLearing
 <p>14、利用angular开发下一代Web应用(angular js) 【书】
 
 <p>15、Lcllao的ag笔记：<a href="http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html">http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html</a>
+<p>16、angularjs-performance-with-large-lists<a href="http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/">http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/</a>
