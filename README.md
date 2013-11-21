@@ -24,3 +24,4 @@ AngularLearing
 <P>18、angularjs-pitfalls-using-scopes <a href="http://thenittygritty.co/angularjs-pitfalls-using-scopes">http://thenittygritty.co/angularjs-pitfalls-using-scopes</a>
 <p>19、只绑定一次 <a href="https://github.com/Pasvaz/bindonce">https://github.com/Pasvaz/bindonce</a>
 <p>20、databinding-in-angularjs <a href="http://stackoverflow.com/questions/9682092/databinding-in-angularjs/9693933#9693933">http://stackoverflow.com/questions/9682092/databinding-in-angularjs/9693933#9693933</a>
+<p>21、angular-service-or-factory ? 傻傻分不清楚？<a href="http://iffycan.blogspot.com.ar/2013/05/angular-service-or-factory.html">http://iffycan.blogspot.com.ar/2013/05/angular-service-or-factory.html</a>
