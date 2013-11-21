@@ -23,3 +23,4 @@ AngularLearing
 <P>17、angularjs-my-solution-to-the-ng-repeat-performance-problem<a href="http://www.williambrownstreet.net/blog/2013/07/angularjs-my-solution-to-the-ng-repeat-performance-problem/">http://www.williambrownstreet.net/blog/2013/07/angularjs-my-solution-to-the-ng-repeat-performance-problem/</a>
 <P>18、angularjs-pitfalls-using-scopes <a href="http://thenittygritty.co/angularjs-pitfalls-using-scopes">http://thenittygritty.co/angularjs-pitfalls-using-scopes</a>
 <p>19、只绑定一次 <a href="https://github.com/Pasvaz/bindonce">https://github.com/Pasvaz/bindonce</a>
+<p>20、databinding-in-angularjs <a href="http://stackoverflow.com/questions/9682092/databinding-in-angularjs/9693933#9693933">http://stackoverflow.com/questions/9682092/databinding-in-angularjs/9693933#9693933</a>
