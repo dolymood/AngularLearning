@@ -20,3 +20,4 @@ AngularLearing
 
 <p>15、Lcllao的ag笔记：<a href="http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html">http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html</a>
 <p>16、angularjs-performance-with-large-lists<a href="http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/">http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/</a>
+<P>17、angularjs-my-solution-to-the-ng-repeat-performance-problem<a href="http://www.williambrownstreet.net/blog/2013/07/angularjs-my-solution-to-the-ng-repeat-performance-problem/">http://www.williambrownstreet.net/blog/2013/07/angularjs-my-solution-to-the-ng-repeat-performance-problem/</a>
