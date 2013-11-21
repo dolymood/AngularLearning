@@ -22,3 +22,4 @@ AngularLearing
 <p>16、angularjs-performance-with-large-lists<a href="http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/">http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/</a>
 <P>17、angularjs-my-solution-to-the-ng-repeat-performance-problem<a href="http://www.williambrownstreet.net/blog/2013/07/angularjs-my-solution-to-the-ng-repeat-performance-problem/">http://www.williambrownstreet.net/blog/2013/07/angularjs-my-solution-to-the-ng-repeat-performance-problem/</a>
 <P>18、angularjs-pitfalls-using-scopes <a href="http://thenittygritty.co/angularjs-pitfalls-using-scopes">http://thenittygritty.co/angularjs-pitfalls-using-scopes</a>
+<p>19、只绑定一次 <a href="https://github.com/Pasvaz/bindonce">https://github.com/Pasvaz/bindonce</a>
