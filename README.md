@@ -27,3 +27,7 @@ AngularLearing
 <p>21、angular-service-or-factory ? 傻傻分不清楚？<a href="http://iffycan.blogspot.com.ar/2013/05/angular-service-or-factory.html">http://iffycan.blogspot.com.ar/2013/05/angular-service-or-factory.html</a>
 <p>22、angular-ajax-upload 指导性质的<a href="http://iffycan.blogspot.com.ar/2013/08/angular-ajax-upload.html">http://iffycan.blogspot.com.ar/2013/08/angular-ajax-upload.html</a>
 <p>23、angular-injection <a href="http://iffycan.blogspot.com.ar/2013/07/angular-injection.html">http://iffycan.blogspot.com.ar/2013/07/angular-injection.html</a>
+<p>24、利用angular开发下一代Web应用(angular js) 书<a href="https://github.com/aztack/AngularJS-translation">https://github.com/aztack/AngularJS-translation</a>
+
+
+
