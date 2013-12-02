@@ -28,7 +28,7 @@ AngularLearing
 <p>22、angular-ajax-upload 指导性质的<a href="http://iffycan.blogspot.com.ar/2013/08/angular-ajax-upload.html">http://iffycan.blogspot.com.ar/2013/08/angular-ajax-upload.html</a>
 <p>23、angular-injection <a href="http://iffycan.blogspot.com.ar/2013/07/angular-injection.html">http://iffycan.blogspot.com.ar/2013/07/angular-injection.html</a>
 <p>24、利用angular开发下一代Web应用(angular js) 书<a href="https://github.com/aztack/AngularJS-translation">https://github.com/aztack/AngularJS-translation</a>
-<p>25、代理<a href="https://github.com/nishp1/angular-delegate-event">https://github.com/nishp1/angular-delegate-event</a>
+<p>25、事件代理<a href="https://github.com/nishp1/angular-delegate-event">https://github.com/nishp1/angular-delegate-event</a>
 
 
 
