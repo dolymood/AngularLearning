@@ -29,6 +29,6 @@ AngularLearing
 <p>23、angular-injection <a href="http://iffycan.blogspot.com.ar/2013/07/angular-injection.html">http://iffycan.blogspot.com.ar/2013/07/angular-injection.html</a>
 <p>24、利用angular开发下一代Web应用(angular js) 书<a href="https://github.com/aztack/AngularJS-translation">https://github.com/aztack/AngularJS-translation</a>
 <p>25、事件代理<a href="https://github.com/nishp1/angular-delegate-event">https://github.com/nishp1/angular-delegate-event</a>
-
+<p>26、angular最佳实践 <a href="http://www.lovelucy.info/angularjs-best-practices.html">http://www.lovelucy.info/angularjs-best-practices.html</a>
 
 
