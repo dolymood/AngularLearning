@@ -31,5 +31,6 @@ AngularLearing
 <p>25、事件代理<a href="https://github.com/nishp1/angular-delegate-event">https://github.com/nishp1/angular-delegate-event</a>
 <p>26、angular最佳实践 <a href="http://www.lovelucy.info/angularjs-best-practices.html">http://www.lovelucy.info/angularjs-best-practices.html</a>
 <p>27、如何组织大型JavaScript应用中的代码？<a href="http://kb.cnblogs.com/page/176541/">http://kb.cnblogs.com/page/176541/</a>
+<p>28、破狼的angular文章集合 <a href="http://www.cnblogs.com/whitewolf/category/404298.html">http://www.cnblogs.com/whitewolf/category/404298.html</a>
 
 
