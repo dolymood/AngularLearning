@@ -32,5 +32,6 @@ AngularLearing
 <p>26、angular最佳实践 <a href="http://www.lovelucy.info/angularjs-best-practices.html">http://www.lovelucy.info/angularjs-best-practices.html</a>
 <p>27、如何组织大型JavaScript应用中的代码？<a href="http://kb.cnblogs.com/page/176541/">http://kb.cnblogs.com/page/176541/</a>
 <p>28、破狼的angular文章集合 <a href="http://www.cnblogs.com/whitewolf/category/404298.html">http://www.cnblogs.com/whitewolf/category/404298.html</a>
+<p>29、angular UI <a href="https://github.com/angular-ui">https://github.com/angular-ui</a>
 
 
