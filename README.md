@@ -34,5 +34,6 @@ AngularLearing
 <p>28、破狼的angular文章集合 <a href="http://www.cnblogs.com/whitewolf/category/404298.html">http://www.cnblogs.com/whitewolf/category/404298.html</a>
 <p>29、angular UI <a href="https://github.com/angular-ui">https://github.com/angular-ui</a>
 <p>30、邹业盛 angular的学习笔记 <a href="http://zouyesheng.com/angular.html">http://zouyesheng.com/angular.html</a>
+<p>31、2013年AngularJS学习资源精选 <a href="http://blog.jobbole.com/54716/">http://blog.jobbole.com/54716/</a>
 
 
