@@ -37,4 +37,5 @@ AngularLearing
 *		32、AngularJS 数据建模 [http://blog.jobbole.com/54817/](http://blog.jobbole.com/54817/)
 *		33、AngularJS 中的一些坑 [http://blog.jobbole.com/52857/](http://blog.jobbole.com/52857/)
 *		34、2013年度最强AngularJS资源合集 [http://www.iteye.com/news/28651-AngularJS-Google-resource](http://www.iteye.com/news/28651-AngularJS-Google-resource)
-*		35、angular app [angular app](https://github.com/angular-app/angular-app)
+*		35、angular app [https://github.com/angular-app/angular-app](https://github.com/angular-app/angular-app)
+*		36、AngularJS Best Practices [http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/](http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/)
