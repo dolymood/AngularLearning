@@ -40,4 +40,5 @@ AngularLearing
 *		35、angular app [https://github.com/angular-app/angular-app](https://github.com/angular-app/angular-app)
 *		36、AngularJS Best Practices [http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/](http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/)
 *		37、[http://joshdmiller.github.io/ng-boilerplate/](http://joshdmiller.github.io/ng-boilerplate/)
-*		38、Best Practice Recommendations for Angular App Structure[https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub](https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub)
+*		38、Best Practice Recommendations for Angular App Structure [https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub](https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub)
+*		39、Superspeed your angularjs apps [http://orangevolt.blogspot.com/2013/08/superspeed-your-angularjs-apps.html](http://orangevolt.blogspot.com/2013/08/superspeed-your-angularjs-apps.html)
