@@ -43,3 +43,4 @@ AngularLearing
 *		38、Best Practice Recommendations for Angular App Structure [https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub](https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub)
 *		39、Superspeed your angularjs apps [http://orangevolt.blogspot.com/2013/08/superspeed-your-angularjs-apps.html](http://orangevolt.blogspot.com/2013/08/superspeed-your-angularjs-apps.html)
 *		40、Fun with AngularJS! [http://devgirl.org/2013/03/21/fun-with-angularjs/](http://devgirl.org/2013/03/21/fun-with-angularjs/)
+*		41、中文版guide [http://angular.duapp.com/guide](http://angular.duapp.com/guide)
