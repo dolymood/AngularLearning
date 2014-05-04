@@ -44,3 +44,5 @@ AngularLearing
 *		39、Superspeed your angularjs apps [http://orangevolt.blogspot.com/2013/08/superspeed-your-angularjs-apps.html](http://orangevolt.blogspot.com/2013/08/superspeed-your-angularjs-apps.html)
 *		40、Fun with AngularJS! [http://devgirl.org/2013/03/21/fun-with-angularjs/](http://devgirl.org/2013/03/21/fun-with-angularjs/)
 *		41、中文版guide [http://angular.duapp.com/guide](http://angular.duapp.com/guide)
+*		42、为什么我们的angular应用总是很慢 [http://www.zhex.me/blog/2013/11/22/why-out-angular-app-is-slow/](http://www.zhex.me/blog/2013/11/22/why-out-angular-app-is-slow/)
+*		43、angular-debounce [https://github.com/shahata/angular-debounce](https://github.com/shahata/angular-debounce)
