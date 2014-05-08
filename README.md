@@ -47,3 +47,4 @@ AngularLearing
 *		42、为什么我们的angular应用总是很慢 [http://www.zhex.me/blog/2013/11/22/why-out-angular-app-is-slow/](http://www.zhex.me/blog/2013/11/22/why-out-angular-app-is-slow/)
 *		43、angular-debounce [https://github.com/shahata/angular-debounce](https://github.com/shahata/angular-debounce)
 *		44、MVVM大比拼之AngularJS源码精析 [http://www.cnblogs.com/sskyy/p/3709649.html](http://www.cnblogs.com/sskyy/p/3709649.html)
+*		45、基于AngularJS的企业软件前端架构 [http://www.infoq.com/cn/news/2014/05/angularjs-front-end-architecture](http://www.infoq.com/cn/news/2014/05/angularjs-front-end-architecture)
