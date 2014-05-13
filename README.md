@@ -48,3 +48,4 @@ AngularLearing
 *		43、angular-debounce [https://github.com/shahata/angular-debounce](https://github.com/shahata/angular-debounce)
 *		44、MVVM大比拼之AngularJS源码精析 [http://www.cnblogs.com/sskyy/p/3709649.html](http://www.cnblogs.com/sskyy/p/3709649.html)
 *		45、基于AngularJS的企业软件前端架构 [http://www.infoq.com/cn/news/2014/05/angularjs-front-end-architecture](http://www.infoq.com/cn/news/2014/05/angularjs-front-end-architecture)
+*		46、angular性能优化心得 [http://atian25.github.io/2014/05/09/angular-performace/](http://atian25.github.io/2014/05/09/angular-performace/)
