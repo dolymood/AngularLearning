@@ -50,3 +50,4 @@ AngularLearing
 *		45、基于AngularJS的企业软件前端架构 [http://www.infoq.com/cn/news/2014/05/angularjs-front-end-architecture](http://www.infoq.com/cn/news/2014/05/angularjs-front-end-architecture)
 *		46、angular性能优化心得 [http://atian25.github.io/2014/05/09/angular-performace/](http://atian25.github.io/2014/05/09/angular-performace/)
 *		47、angular视频教程 [http://www.kittencup.com/category/video/angularjs/](http://www.kittencup.com/category/video/angularjs/)
+*		48、angular tips [http://angular-tips.com/](http://angular-tips.com/)
