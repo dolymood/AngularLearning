@@ -4,7 +4,7 @@ AngularLearing
 ## Angular.js 的一些学习资源 ##
 --------------
 1. 官方： [http://docs.angularjs.org](http://docs.angularjs.org/)
-2. 官方示例教程：[http://docs.angularjs.org/tutorial/](http://docs.angularjs.org/tutorial/)
+1. 官方示例教程：[http://docs.angularjs.org/tutorial/](http://docs.angularjs.org/tutorial/)
 *   一个资源集锦：[https://github.com/jmcunningham/AngularJS-Learning"](https://github.com/jmcunningham/AngularJS-Learning)
 *   使用AngularJS构建大型Web应用[http://www.infoq.com/cn/news/2013/02/angular-web-app](http://www.infoq.com/cn/news/2013/02/angular-web-app)
 *   优化1200=>35（建议去看看官方站点，从文章上来看，感触不深ps:个人观点） ：[http://blog.jobbole.com/51180/](http://blog.jobbole.com/51180/)
