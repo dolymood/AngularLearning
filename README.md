@@ -52,3 +52,4 @@ AngularLearing
 *		47、angular视频教程 [http://www.kittencup.com/category/video/angularjs/](http://www.kittencup.com/category/video/angularjs/)
 *		48、angular tips [http://angular-tips.com/](http://angular-tips.com/)
 *		49、Angular指令及组件的全面范例 [https://github.com/angular-cn/ng-showcase](https://github.com/angular-cn/ng-showcase)
+*		50、ng-newsletter [http://www.ng-newsletter.com/](http://www.ng-newsletter.com/)
