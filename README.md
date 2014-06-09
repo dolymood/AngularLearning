@@ -51,3 +51,4 @@ AngularLearing
 *		46、angular性能优化心得 [http://atian25.github.io/2014/05/09/angular-performace/](http://atian25.github.io/2014/05/09/angular-performace/)
 *		47、angular视频教程 [http://www.kittencup.com/category/video/angularjs/](http://www.kittencup.com/category/video/angularjs/)
 *		48、angular tips [http://angular-tips.com/](http://angular-tips.com/)
+*		49、Angular指令及组件的全面范例 [https://github.com/angular-cn/ng-showcase](https://github.com/angular-cn/ng-showcase)
