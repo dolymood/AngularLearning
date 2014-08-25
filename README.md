@@ -53,4 +53,4 @@ AngularLearing
 *   angular tips [http://angular-tips.com/](http://angular-tips.com/)
 *   Angular指令及组件的全面范例 [https://github.com/angular-cn/ng-showcase](https://github.com/angular-cn/ng-showcase)
 *   ng-newsletter [http://www.ng-newsletter.com/](http://www.ng-newsletter.com/)
-*   程序人生的angular合集 [http://www.ifeenan.com/?c=AngularJS](http://www.ifeenan.com/?c=AngularJS)
+*   程序人生的angular合集 [http://www.ifeenan.com/categories.html#angularjs-ref](http://www.ifeenan.com/categories.html#angularjs-ref)
