@@ -55,3 +55,4 @@ AngularLearing
 *   ng-newsletter [http://www.ng-newsletter.com/](http://www.ng-newsletter.com/)
 *   xuwenmin的angular合集 [http://www.ifeenan.com/categories.html#angularjs-ref](http://www.ifeenan.com/categories.html#angularjs-ref)
 *   angular data [http://angular-data.pseudobry.com/](http://angular-data.pseudobry.com/)
+*   AngularJS风格指南 [https://github.com/natee/angularjs-styleguide](https://github.com/natee/angularjs-styleguide)
