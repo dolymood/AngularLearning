@@ -54,3 +54,4 @@ AngularLearing
 *   Angular指令及组件的全面范例 [https://github.com/angular-cn/ng-showcase](https://github.com/angular-cn/ng-showcase)
 *   ng-newsletter [http://www.ng-newsletter.com/](http://www.ng-newsletter.com/)
 *   xuwenmin的angular合集 [http://www.ifeenan.com/categories.html#angularjs-ref](http://www.ifeenan.com/categories.html#angularjs-ref)
+*   angular data [http://angular-data.pseudobry.com/](http://angular-data.pseudobry.com/)
