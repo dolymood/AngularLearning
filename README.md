@@ -56,3 +56,4 @@ AngularLearing
 *   xuwenmin的angular合集 [http://www.ifeenan.com/categories.html#angularjs-ref](http://www.ifeenan.com/categories.html#angularjs-ref)
 *   angular data [http://angular-data.pseudobry.com/](http://angular-data.pseudobry.com/)
 *   AngularJS风格指南 [https://github.com/natee/angularjs-styleguide](https://github.com/natee/angularjs-styleguide)
+*   阿里懒懒交流会AngularJS专场 <http://www.imooc.com/view/203?utm_source=jobboleweibo>
