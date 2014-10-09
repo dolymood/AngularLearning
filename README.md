@@ -57,3 +57,4 @@ AngularLearing
 *   angular data [http://angular-data.pseudobry.com/](http://angular-data.pseudobry.com/)
 *   AngularJS风格指南 [https://github.com/natee/angularjs-styleguide](https://github.com/natee/angularjs-styleguide)
 *   阿里懒懒交流会AngularJS专场 <http://www.imooc.com/view/203?utm_source=jobboleweibo>
+*   AngularJS 开发者最常犯的 10 个错误 <http://www.oschina.net/translate/top-10-mistakes-angularjs-developers-make>
