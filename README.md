@@ -65,6 +65,7 @@ AngularLearing
 *   基于AngularJS的企业软件前端架构 [http://www.infoq.com/cn/news/2014/05/angularjs-front-end-architecture](http://www.infoq.com/cn/news/2014/05/angularjs-front-end-architecture)
 *   angular data [http://angular-data.pseudobry.com/](http://angular-data.pseudobry.com/)
 *   AngularJS风格指南 [https://github.com/natee/angularjs-styleguide](https://github.com/natee/angularjs-styleguide)
+*   快速构建app angular-kickstart <https://github.com/vesparny/angular-kickstart>
 
 ### UI类
 
