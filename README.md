@@ -25,7 +25,7 @@ AngularLearing
 *   ng-newsletter [http://www.ng-newsletter.com/](http://www.ng-newsletter.com/)
 *   AngularJS 开发者最常犯的 10 个错误 <http://www.oschina.net/translate/top-10-mistakes-angularjs-developers-make>
 *   AngularJS 指令实践指南（二） <http://blog.jobbole.com/62999/>
-*   www.fse.guru <http://www.fse.guru/angular-core-components-roles> 以及作者其他相关的ng文章
+*   fse.guru <http://www.fse.guru/angular-core-components-roles> 以及作者其他相关的ng文章
 
 ### 示例
 
