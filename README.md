@@ -84,3 +84,4 @@ AngularLearing
 *   2013年AngularJS学习资源精选 [http://blog.jobbole.com/54716/](http://blog.jobbole.com/54716/)
 *   2013年度最强AngularJS资源合集 [http://www.iteye.com/news/28651-AngularJS-Google-resource](http://www.iteye.com/news/28651-AngularJS-Google-resource)
 *   xuwenmin的angular合集 [http://www.ifeenan.com/categories.html#angularjs-ref](http://www.ifeenan.com/categories.html#angularjs-ref)
+*   可以复制 AngularJS资源集合 <http://www.csdn.net/article/2014-12-10/2823058-AngularJS>
