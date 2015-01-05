@@ -67,6 +67,7 @@ AngularLearing
 *   angular data [http://angular-data.pseudobry.com/](http://angular-data.pseudobry.com/)
 *   AngularJS风格指南 [https://github.com/natee/angularjs-styleguide](https://github.com/natee/angularjs-styleguide)
 *   快速构建app angular-kickstart <https://github.com/vesparny/angular-kickstart>
+*   动态加载controller <https://github.com/DanWahlin/CustomerManager>
 
 ### UI类
 
