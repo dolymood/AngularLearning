@@ -7,7 +7,7 @@ AngularLearing
 ### 基础
 
 1. 官方： [http://docs.angularjs.org](http://docs.angularjs.org/)
-*   jquery?ag?&&? : [http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
+*   jquery?ag? : [http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
 *   ag note：[https://github.com/joeylin/angular-note](https://github.com/joeylin/angular-note)
 *   angularjs book：[https://github.com/shyamseshadri/angularjs-book](https://github.com/shyamseshadri/angularjs-book)
 *   angular和require结合方式：[https://github.com/tnajdek/angular-requirejs-seed](https://github.com/tnajdek/angular-requirejs-seed)
