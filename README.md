@@ -82,7 +82,7 @@ AngularLearing
 
 ### 其他集锦
 
-1. 一个资源集锦：[https://github.com/jmcunningham/AngularJS-Learning"](https://github.com/jmcunningham/AngularJS-Learning)
+1. 一个资源集锦：[https://github.com/jmcunningham/AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
 *   2013年AngularJS学习资源精选 [http://blog.jobbole.com/54716/](http://blog.jobbole.com/54716/)
 *   2013年度最强AngularJS资源合集 [http://www.iteye.com/news/28651-AngularJS-Google-resource](http://www.iteye.com/news/28651-AngularJS-Google-resource)
 *   xuwenmin的angular合集 [http://www.ifeenan.com/categories.html#angularjs-ref](http://www.ifeenan.com/categories.html#angularjs-ref)
