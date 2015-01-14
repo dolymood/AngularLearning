@@ -27,6 +27,7 @@ AngularLearing
 *   AngularJS 指令实践指南（二） <http://blog.jobbole.com/62999/>
 *   fse.guru <http://www.fse.guru/angular-core-components-roles> 以及作者其他相关的ng文章
 *   深入理解AngularJS 的 Scope <http://www.lovelucy.info/understanding-scopes-in-angularjs.html>
+*   angularjs中文社区关于angular.js文章、教程 <http://angularjs.cn/tag/AngularJS>
 
 ### 示例
 
@@ -69,6 +70,7 @@ AngularLearing
 *   AngularJS风格指南 [https://github.com/natee/angularjs-styleguide](https://github.com/natee/angularjs-styleguide)
 *   快速构建app angular-kickstart <https://github.com/vesparny/angular-kickstart>
 *   动态加载controller <https://github.com/DanWahlin/CustomerManager>
+*   通过少使用ng-controller来提升ng性能  <http://teropa.info/blog/2014/10/24/how-ive-improved-my-angular-apps-by-banning-ng-controller.html>以及该站其他关于ng文章
 
 ### UI类
 
