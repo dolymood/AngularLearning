@@ -45,6 +45,7 @@ AngularLearing
 1. angular视频教程 [http://www.kittencup.com/category/video/angularjs/](http://www.kittencup.com/category/video/angularjs/)
 *   阿里懒懒交流会AngularJS专场 <http://www.imooc.com/view/203?utm_source=jobboleweibo>
 *   大漠穷秋讲的AngularJS实战 <http://www.imooc.com/learn/156>
+*   codeschool上的angular视频教程 <http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro>
 
 ### 方案，性能
 
