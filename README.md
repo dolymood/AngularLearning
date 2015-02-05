@@ -28,7 +28,7 @@ AngularLearing
 *   fse.guru <http://www.fse.guru/angular-core-components-roles> 以及作者其他相关的ng文章
 *   深入理解AngularJS 的 Scope <http://www.lovelucy.info/understanding-scopes-in-angularjs.html>
 *   angularjs中文社区关于angular.js文章、教程 <http://angularjs.cn/tag/AngularJS>
-*   [xufei](https://github.com/xufei/)的博客 <https://github.com/xufei/blog/issues>
+*   [xufei](https://github.com/xufei/)的博客 <https://github.com/xufei/blog/issues> __一直在更新，荐，讲得很好！__
 
 ### 示例
 
