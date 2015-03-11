@@ -33,6 +33,7 @@ AngularLearing
 ### 示例
 
 1. 官方示例教程：[http://docs.angularjs.org/tutorial/](http://docs.angularjs.org/tutorial/)
+*   我自己的 [angular example](https://github.com/dolymood/angular-example)
 *   7步从菜鸟到专家（建议原文，可以直接看代码示例）：[http://blog.jobbole.com/46779/"](http://blog.jobbole.com/46779/)
 *   强大的ToDoMVC：[https://github.com/tastejs/todomvc](https://github.com/tastejs/todomvc)
 *   angular-ajax-upload 指导性质的[http://iffycan.blogspot.com.ar/2013/08/angular-ajax-upload.html](http://iffycan.blogspot.com.ar/2013/08/angular-ajax-upload.html)
