@@ -57,7 +57,7 @@ AngularLearing
 *   angularjs-my-solution-to-the-ng-repeat-performance-problem[http://www.williambrownstreet.net/blog/2013/07/angularjs-my-solution-to-the-ng-repeat-performance-problem/](http://www.williambrownstreet.net/blog/2013/07/angularjs-my-solution-to-the-ng-repeat-performance-problem/)
 *   angularjs-pitfalls-using-scopes [http://thenittygritty.co/angularjs-pitfalls-using-scopes](http://thenittygritty.co/angularjs-pitfalls-using-scopes)
 *   只绑定一次 [https://github.com/Pasvaz/bindonce](https://github.com/Pasvaz/bindonce)
-*   事件代理[https://github.com/nishp1/angular-delegate-event](https://github.com/nishp1/angular-delegate-event)
+*   事件代理[angular-delegate-event](https://github.com/dolymood/angular-delegate-event)
 *   angular最佳实践 [http://www.lovelucy.info/angularjs-best-practices.html](http://www.lovelucy.info/angularjs-best-practices.html)
 *   如何组织大型JavaScript应用中的代码？[http://kb.cnblogs.com/page/176541/](http://kb.cnblogs.com/page/176541/)
 *   databinding-in-angularjs [http://stackoverflow.com/questions/9682092/databinding-in-angularjs/9693933#9693933](http://stackoverflow.com/questions/9682092/databinding-in-angularjs/9693933)
