@@ -75,6 +75,7 @@ AngularLearing
 *   动态加载controller <https://github.com/DanWahlin/CustomerManager>
 *   通过少使用ng-controller来提升ng性能  <http://teropa.info/blog/2014/10/24/how-ive-improved-my-angular-apps-by-banning-ng-controller.html>以及该站其他关于ng文章
 *   AngularJS风格指南2 <https://github.com/toddmotto/angularjs-styleguide>
+*   angularjs的数据绑定 <https://github.com/rchee/translation/blob/master/angularJS/databinding-in-angularjs.md>
 
 ### UI类
 
