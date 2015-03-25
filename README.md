@@ -77,11 +77,12 @@ AngularLearing
 *   AngularJS风格指南2 <https://github.com/toddmotto/angularjs-styleguide>
 *   angularjs的数据绑定 <https://github.com/rchee/translation/blob/master/angularJS/databinding-in-angularjs.md>
 
-### UI类
+### 组件（UI）类
 
 1. angular UI [https://github.com/angular-ui](https://github.com/angular-ui)
 *   Bootstrap directives for Angular：[https://github.com/mgcrea/angular-strap](https://github.com/mgcrea/angular-strap)
 *  Material design for Angular <https://github.com/angular/material>
+*  angular lib，包含了“事件代理、dialog、上传flow、图片预览imageViewer、进化版keydown（支持传入keycode）、mousewheel、滚动加载、选择内容selection”， <https://github.com/dolymood/angularLib>
 
 ### 源码分析
 
