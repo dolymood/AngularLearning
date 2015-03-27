@@ -13,7 +13,7 @@ AngularLearing
 *   angular和require结合方式：[https://github.com/tnajdek/angular-requirejs-seed](https://github.com/tnajdek/angular-requirejs-seed)
 *   利用angular开发下一代Web应用(angular js) 【书】
 *   Lcllao的ag笔记：[http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html](http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html)
-*   angular-service-or-factory ? 傻傻分不清楚？[http://iffycan.blogspot.com.ar/2013/05/angular-service-or-factory.html](http://iffycan.blogspot.com.ar/2013/05/angular-service-or-factory.html)
+*   angular-service-or-factory ? 傻傻分不清楚？[http://iffycan.blogspot.com.ar/2013/05/angular-service-or-factory.html](http://iffycan.blogspot.com.ar/2013/05/angular-service-or-factory.html) 以及 <https://github.com/tylermcginnis/AngularServices>
 *   angular-injection [http://iffycan.blogspot.com.ar/2013/07/angular-injection.html](http://iffycan.blogspot.com.ar/2013/07/angular-injection.html)
 *   利用angular开发下一代Web应用(angular js) 书[https://github.com/aztack/AngularJS-translation](https://github.com/aztack/AngularJS-translation)
 *   破狼的angular文章集合 [http://www.cnblogs.com/whitewolf/category/404298.html](http://www.cnblogs.com/whitewolf/category/404298.html)
