@@ -83,6 +83,7 @@ AngularLearing
 *   Bootstrap directives for Angular：[https://github.com/mgcrea/angular-strap](https://github.com/mgcrea/angular-strap)
 *  Material design for Angular <https://github.com/angular/material>
 *  angular lib，包含了“事件代理、dialog、上传flow、图片预览imageViewer、进化版keydown（支持传入keycode）、mousewheel、滚动加载、选择内容selection”， <https://github.com/dolymood/angularLib>
+*  xufei大神的 [ng-control](https://github.com/xufei/ng-control)
 
 ### 源码分析
 
