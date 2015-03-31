@@ -6,7 +6,7 @@ AngularLearing
 
 ### 基础
 
-1. 官方： [http://docs.angularjs.org](http://docs.angularjs.org/) angularjs官方网站已被墙，可看 ngnice <http://www.ngnice.com/>；官方zip下载包 <https://github.com/dolymood/angular-packages>
+1. 官方： [http://docs.angularjs.org](http://docs.angularjs.org/) angularjs官方网站已被墙，可看 ngnice <http://www.ngnice.com/>；官方zip下载包 <https://github.com/dolymood/angular-packages> __已增加docs服务，输入地址即可，例如：<http://blog.aijc.net/angular-packages/angular-1.3.15/docs/api>__
 *   jquery?ag? : [http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
 *   ag note：[https://github.com/joeylin/angular-note](https://github.com/joeylin/angular-note)
 *   angularjs book：[https://github.com/shyamseshadri/angularjs-book](https://github.com/shyamseshadri/angularjs-book)
