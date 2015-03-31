@@ -47,6 +47,7 @@ AngularLearing
 *   阿里懒懒交流会AngularJS专场 <http://www.imooc.com/view/203?utm_source=jobboleweibo>
 *   大漠穷秋讲的AngularJS实战 <http://www.imooc.com/learn/156>
 *   codeschool上的angular视频教程 <http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro>
+*   angularjs-internals-in-depth <http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/>
 
 ### 方案，性能
 
