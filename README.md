@@ -29,6 +29,7 @@ AngularLearing
 *   深入理解AngularJS 的 Scope <http://www.lovelucy.info/understanding-scopes-in-angularjs.html>
 *   angularjs中文社区关于angular.js文章、教程 <http://angularjs.cn/tag/AngularJS>
 *   [xufei](https://github.com/xufei/)的博客 <https://github.com/xufei/blog/issues> __一直在更新，荐，讲得很好！__
+*   angularjs-internals-in-depth <http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/>
 
 ### 示例
 
@@ -47,7 +48,6 @@ AngularLearing
 *   阿里懒懒交流会AngularJS专场 <http://www.imooc.com/view/203?utm_source=jobboleweibo>
 *   大漠穷秋讲的AngularJS实战 <http://www.imooc.com/learn/156>
 *   codeschool上的angular视频教程 <http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro>
-*   angularjs-internals-in-depth <http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/>
 
 ### 方案，性能
 
