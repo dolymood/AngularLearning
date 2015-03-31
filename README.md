@@ -30,6 +30,7 @@ AngularLearing
 *   angularjs中文社区关于angular.js文章、教程 <http://angularjs.cn/tag/AngularJS>
 *   [xufei](https://github.com/xufei/)的博客 <https://github.com/xufei/blog/issues> __一直在更新，荐，讲得很好！__
 *   angularjs-internals-in-depth <http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/>
+*   introduction-to-unit-testing-in-angularjs <http://www.smashingmagazine.com/2014/10/07/introduction-to-unit-testing-in-angularjs/>
 
 ### 示例
 
