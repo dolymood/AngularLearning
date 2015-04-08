@@ -32,6 +32,7 @@ AngularLearing
 *   [xufei](https://github.com/xufei/)的博客 <https://github.com/xufei/blog/issues> __一直在更新，荐，讲得很好！__
 *   angularjs-internals-in-depth <http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/>
 *   introduction-to-unit-testing-in-angularjs <http://www.smashingmagazine.com/2014/10/07/introduction-to-unit-testing-in-angularjs/>
+*   AngularJS Unit Testing – For Real, Though <https://quickleft.com/blog/angularjs-unit-testing-for-real-though/>
 
 ### 示例
 
