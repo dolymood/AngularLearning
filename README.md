@@ -62,6 +62,7 @@ AngularLearing
 *   angularjs-pitfalls-using-scopes [http://thenittygritty.co/angularjs-pitfalls-using-scopes](http://thenittygritty.co/angularjs-pitfalls-using-scopes)
 *   只绑定一次 [https://github.com/Pasvaz/bindonce](https://github.com/Pasvaz/bindonce)
 *   天猪的[angular-lazyload](https://github.com/atian25/angular-lazyload)
+*   利用require.js动态加载路由文件的库 angularAMD <https://github.com/marcoslin/angularAMD>
 *   事件代理[angular-delegate-event](https://github.com/dolymood/angular-delegate-event)
 *   angular最佳实践 [http://www.lovelucy.info/angularjs-best-practices.html](http://www.lovelucy.info/angularjs-best-practices.html)
 *   如何组织大型JavaScript应用中的代码？[http://kb.cnblogs.com/page/176541/](http://kb.cnblogs.com/page/176541/)
