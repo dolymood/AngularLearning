@@ -6,7 +6,8 @@ AngularLearing
 
 ### 基础
 
-1. 官方： [http://docs.angularjs.org](http://docs.angularjs.org/) angularjs官方网站已被墙，可看 ngnice <http://www.ngnice.com/>；官方zip下载包 <https://github.com/dolymood/angular-packages> __已增加docs服务，输入地址即可，例如：<http://blog.aijc.net/angular-packages/angular-1.3.15/docs/>__
+1. 官方： [http://docs.angularjs.org](http://docs.angularjs.org/) angularjs官方网站已被墙，可看 <http://www.ngnice.com/>；
+*   官方zip下载包 <https://github.com/dolymood/angular-packages>，__已增加docs服务，输入地址即可，例如：<http://blog.aijc.net/angular-packages/angular-1.3.15/docs/>__
 *   jquery?ag? : [http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
 *   ag note：[https://github.com/joeylin/angular-note](https://github.com/joeylin/angular-note)
 *   angularjs book：[https://github.com/shyamseshadri/angularjs-book](https://github.com/shyamseshadri/angularjs-book)
@@ -33,7 +34,6 @@ AngularLearing
 *   angularjs-internals-in-depth <http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/>
 *   introduction-to-unit-testing-in-angularjs <http://www.smashingmagazine.com/2014/10/07/introduction-to-unit-testing-in-angularjs/>
 *   AngularJS Unit Testing – For Real, Though <https://quickleft.com/blog/angularjs-unit-testing-for-real-though/>
-*   find modules for angular <http://ngmodules.org/>
 
 ### 示例
 
@@ -85,13 +85,14 @@ AngularLearing
 *   angularjs的数据绑定 <https://github.com/rchee/translation/blob/master/angularJS/databinding-in-angularjs.md>
 *   Create, read, update, delete MongoDB collections via AngularJS. <https://github.com/Unitech/angular-bridge>
 
-### 组件（UI）类
+### 组件（UI|module）类
 
 1. angular UI [https://github.com/angular-ui](https://github.com/angular-ui)
 *   Bootstrap directives for Angular：[https://github.com/mgcrea/angular-strap](https://github.com/mgcrea/angular-strap)
 *  Material design for Angular <https://github.com/angular/material>
 *  angular lib，包含了“事件代理、dialog、上传flow、图片预览imageViewer、进化版keydown（支持传入keycode）、mousewheel、滚动加载、选择内容selection”， <https://github.com/dolymood/angularLib>
 *  xufei大神的 [ng-control](https://github.com/xufei/ng-control)
+*  find modules for angular <http://ngmodules.org/>
 
 ### 源码分析
 
