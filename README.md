@@ -20,6 +20,7 @@ AngularLearing
 *   利用angular开发下一代Web应用(angular js) 书[https://github.com/aztack/AngularJS-translation](https://github.com/aztack/AngularJS-translation)
 *   破狼的angular文章集合 [http://www.cnblogs.com/whitewolf/category/404298.html](http://www.cnblogs.com/whitewolf/category/404298.html)
 *   邹业盛 angular的学习笔记 [http://zouyesheng.com/angular.html](http://zouyesheng.com/angular.html)
+*   黑暗執行緒 的angular文章（繁体） <http://blog.darkthread.net/blogs/darkthreadtw/archive/tags/AngularJS/default.aspx>
 *   AngularJS 数据建模 [http://blog.jobbole.com/54817/](http://blog.jobbole.com/54817/)
 *   AngularJS 中的一些坑 [http://blog.jobbole.com/52857/](http://blog.jobbole.com/52857/)
 *   中文版guide [http://angular.duapp.com/guide](http://angular.duapp.com/guide)
@@ -34,6 +35,7 @@ AngularLearing
 *   angularjs-internals-in-depth <http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/>
 *   introduction-to-unit-testing-in-angularjs <http://www.smashingmagazine.com/2014/10/07/introduction-to-unit-testing-in-angularjs/>
 *   AngularJS Unit Testing – For Real, Though <https://quickleft.com/blog/angularjs-unit-testing-for-real-though/>
+*   Quick Starter Repository for Angular Material <https://github.com/angular/material-start>
 
 ### 示例
 
