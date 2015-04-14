@@ -36,6 +36,7 @@ AngularLearing
 *   introduction-to-unit-testing-in-angularjs <http://www.smashingmagazine.com/2014/10/07/introduction-to-unit-testing-in-angularjs/>
 *   AngularJS Unit Testing – For Real, Though <https://quickleft.com/blog/angularjs-unit-testing-for-real-though/>
 *   Quick Starter Repository for Angular Material <https://github.com/angular/material-start>
+*   angular cheat sheet <https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf>
 
 ### 示例
 
@@ -108,3 +109,7 @@ AngularLearing
 *   2013年度最强AngularJS资源合集 [http://www.iteye.com/news/28651-AngularJS-Google-resource](http://www.iteye.com/news/28651-AngularJS-Google-resource)
 *   xuwenmin的angular合集 [http://www.ifeenan.com/categories.html#angularjs-ref](http://www.ifeenan.com/categories.html#angularjs-ref)
 *   可以复制 AngularJS资源集合 <http://www.csdn.net/article/2014-12-10/2823058-AngularJS>
+
+
+### angular2
+1. angular2 学习资源集锦：<https://github.com/timjacobi/angular2-education>
