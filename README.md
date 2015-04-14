@@ -20,6 +20,7 @@ AngularLearing
 *   利用angular开发下一代Web应用(angular js) 书[https://github.com/aztack/AngularJS-translation](https://github.com/aztack/AngularJS-translation)
 *   破狼的angular文章集合 [http://www.cnblogs.com/whitewolf/category/404298.html](http://www.cnblogs.com/whitewolf/category/404298.html)
 *   邹业盛 angular的学习笔记 [http://zouyesheng.com/angular.html](http://zouyesheng.com/angular.html)
+*   吕大豹的angular文章合集 <http://www.cnblogs.com/lvdabao/tag/AngularJs/>
 *   黑暗執行緒 的angular文章（繁体） <http://blog.darkthread.net/blogs/darkthreadtw/archive/tags/AngularJS/default.aspx>
 *   AngularJS 数据建模 [http://blog.jobbole.com/54817/](http://blog.jobbole.com/54817/)
 *   AngularJS 中的一些坑 [http://blog.jobbole.com/52857/](http://blog.jobbole.com/52857/)
