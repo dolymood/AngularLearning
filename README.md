@@ -103,6 +103,7 @@ AngularLearing
 
 1. MVVM大比拼之AngularJS源码精析 [http://www.cnblogs.com/sskyy/p/3709649.html](http://www.cnblogs.com/sskyy/p/3709649.html)
 *   前端源码分析 <http://www.html-js.com/article/column/693>
+*   xuwenmin的源码分析 [http://www.ifeenan.com/categories.html#angularjs-ref](http://www.ifeenan.com/categories.html#angularjs-ref)
 
 ### 其他集锦
 
