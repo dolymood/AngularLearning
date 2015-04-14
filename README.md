@@ -111,5 +111,5 @@ AngularLearing
 *   可以复制 AngularJS资源集合 <http://www.csdn.net/article/2014-12-10/2823058-AngularJS>
 
 
-#### angular2
+### angular2
 1. angular2 学习资源集锦：<https://github.com/timjacobi/angular2-education>
