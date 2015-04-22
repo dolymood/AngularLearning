@@ -11,7 +11,7 @@ AngularLearing
 *   jquery?ag? : [http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
 *   ag note：[https://github.com/joeylin/angular-note](https://github.com/joeylin/angular-note)
 *   angularjs book：[https://github.com/shyamseshadri/angularjs-book](https://github.com/shyamseshadri/angularjs-book)
-*   learning-angular：<https://github.com/zafarali/learning-angular> 以及我的翻译版本（ing）<https://github.com/dolymood/learning-angular/tree/translation>
+*   learning-angular：<https://github.com/zafarali/learning-angular> 以及我的翻译版本（ing）<https://github.com/dolymood/learning-angular>
 *   angular和require结合方式：[https://github.com/tnajdek/angular-requirejs-seed](https://github.com/tnajdek/angular-requirejs-seed)
 *   利用angular开发下一代Web应用(angular js) 【书】
 *   Lcllao的ag笔记：[http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html](http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html)
