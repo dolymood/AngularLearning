@@ -82,7 +82,7 @@ AngularLearing
 *   angular-debounce [https://github.com/shahata/angular-debounce](https://github.com/shahata/angular-debounce)
 *   基于AngularJS的企业软件前端架构 [http://www.infoq.com/cn/news/2014/05/angularjs-front-end-architecture](http://www.infoq.com/cn/news/2014/05/angularjs-front-end-architecture)
 *   angular data [http://angular-data.pseudobry.com/](http://angular-data.pseudobry.com/)
-*   AngularJS风格指南 [https://github.com/natee/angularjs-styleguide](https://github.com/natee/angularjs-styleguide)
+*   AngularJS风格指南（包含各翻译版本） <https://github.com/johnpapa/angular-styleguide>
 *   快速构建app angular-kickstart <https://github.com/vesparny/angular-kickstart>
 *   动态加载controller <https://github.com/DanWahlin/CustomerManager>
 *   通过少使用ng-controller来提升ng性能  <http://teropa.info/blog/2014/10/24/how-ive-improved-my-angular-apps-by-banning-ng-controller.html>以及该站其他关于ng文章
