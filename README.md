@@ -39,6 +39,7 @@ AngularLearing
 *   AngularJS Unit Testing – For Real, Though <https://quickleft.com/blog/angularjs-unit-testing-for-real-though/>
 *   Quick Starter Repository for Angular Material <https://github.com/angular/material-start>
 *   angular cheat sheet <https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf>
+*   angular-translate <https://github.com/angular-translate/angular-translate>
 
 ### 示例
 
