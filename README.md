@@ -91,6 +91,7 @@ AngularLearing
 *   angularjs的数据绑定 <https://github.com/rchee/translation/blob/master/angularJS/databinding-in-angularjs.md>
 *   Create, read, update, delete MongoDB collections via AngularJS. <https://github.com/Unitech/angular-bridge>
 *   Token-based AngularJS Authentication <https://github.com/sahat/satellizer>
+*   Virtual Scroll for AngularJS ngRepeat directive <https://github.com/kamilkp/angular-vs-repeat>
 
 ### 组件（UI|module）类
 
