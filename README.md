@@ -51,6 +51,7 @@ AngularLearing
 *   angular app [https://github.com/angular-app/angular-app](https://github.com/angular-app/angular-app)
 *   Fun with AngularJS! [http://devgirl.org/2013/03/21/fun-with-angularjs/](http://devgirl.org/2013/03/21/fun-with-angularjs/)
 *   Angular指令及组件的全面范例 [https://github.com/angular-cn/ng-showcase](https://github.com/angular-cn/ng-showcase)
+*   angular中的MVVM模式 <http://greengerong.github.io/blog/2015/06/16/angularzhong-de-mvvmmo-shi/>
 
 ### 视频
 
