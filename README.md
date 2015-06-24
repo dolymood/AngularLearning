@@ -40,6 +40,7 @@ AngularLearing
 *   Quick Starter Repository for Angular Material <https://github.com/angular/material-start>
 *   angular cheat sheet <https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf>
 *   angular-translate <https://github.com/angular-translate/angular-translate>
+*   推荐 15 个 Angular.js 应用扩展指令 <http://www.oschina.net/translate/15-directives-to-extend-your-angular-js-apps>
 
 ### 示例
 
