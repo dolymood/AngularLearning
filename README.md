@@ -100,10 +100,10 @@ AngularLearning
 
 1. angular UI [https://github.com/angular-ui](https://github.com/angular-ui)
 1. Bootstrap directives for Angular：[https://github.com/mgcrea/angular-strap](https://github.com/mgcrea/angular-strap)
-*  Material design for Angular <https://github.com/angular/material>
-*  angular lib，包含了“事件代理、dialog、上传flow、图片预览imageViewer、进化版keydown（支持传入keycode）、mousewheel、滚动加载、选择内容selection”， <https://github.com/dolymood/angularLib>
-*  xufei大神的 [ng-control](https://github.com/xufei/ng-control)
-*  find modules for angular <http://ngmodules.org/>
+1. Material design for Angular <https://github.com/angular/material>
+1. angular lib，包含了“事件代理、dialog、上传flow、图片预览imageViewer、进化版keydown（支持传入keycode）、mousewheel、滚动加载、选择内容selection”， <https://github.com/dolymood/angularLib>
+1. xufei大神的 [ng-control](https://github.com/xufei/ng-control)
+1. find modules for angular <http://ngmodules.org/>
 
 ### 源码分析
 
