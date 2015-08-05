@@ -95,6 +95,7 @@ AngularLearning
 1. Create, read, update, delete MongoDB collections via AngularJS. <https://github.com/Unitech/angular-bridge>
 1. Token-based AngularJS Authentication <https://github.com/sahat/satellizer>
 1. Virtual Scroll for AngularJS ngRepeat directive <https://github.com/kamilkp/angular-vs-repeat>
+1. AngularJS Data Table crafted for large data sets <https://github.com/swimlane/angular-data-table/>
 
 ### 组件（UI|module）类
 
