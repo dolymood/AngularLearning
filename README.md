@@ -42,6 +42,7 @@ AngularLearning
 1. angular-translate <https://github.com/angular-translate/angular-translate>
 1. 推荐 15 个 Angular.js 应用扩展指令 <http://www.oschina.net/translate/15-directives-to-extend-your-angular-js-apps>
 1. A Guide To Transclusion in AngularJS <http://teropa.info/blog/2015/06/09/transclusion.html>
+1. AngularJS Tutorial - Learn AngularJS in 30 minutes <http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/>
 
 ### 示例
 
