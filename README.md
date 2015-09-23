@@ -124,3 +124,4 @@ AngularLearning
 
 ### angular2
 1. angular2 学习资源集锦：<https://github.com/timjacobi/angular2-education>
+2. angular2 集锦2：<https://github.com/angular-class/awesome-angular2>
