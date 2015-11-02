@@ -44,6 +44,7 @@ AngularLearning
 1. A Guide To Transclusion in AngularJS <http://teropa.info/blog/2015/06/09/transclusion.html>
 1. AngularJS Tutorial - Learn AngularJS in 30 minutes <http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/>
 1. Translate your Angular.JS applications with gettext <https://github.com/rubenv/angular-gettext>
+1. 一个angular经验分享 <http://www.alloyteam.com/2015/10/8723/>
 
 ### 示例
 
