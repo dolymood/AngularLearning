@@ -46,6 +46,7 @@ AngularLearning
 1. Translate your Angular.JS applications with gettext <https://github.com/rubenv/angular-gettext>
 1. 一个angular经验分享 <http://www.alloyteam.com/2015/10/8723/>
 1. Modeling Data and State in Your AngularJS Application <http://joelhooks.com/blog/2013/04/24/modeling-data-and-state-in-your-angularjs-application/>
+1. An AngularJS module that gives you access to the browsers local storage with cookie fallback <https://github.com/grevory/angular-local-storage>
 
 ### 示例
 
